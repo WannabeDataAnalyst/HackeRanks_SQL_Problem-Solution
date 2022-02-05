@@ -1,2 +1,2 @@
-# SQL_Problems-Solutions
-SQL Problems and Solutions
+# SQL Problems and Solutions
+
