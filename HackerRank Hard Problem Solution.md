@@ -1,4 +1,4 @@
--- Copy and paste into SQL in BigQuery
+-- Copy and paste into SQL in BigQuery. Excel files were created and uploaded to BigQuery to solve this problem. Those files are available under Excel Files. 
 
 ```
 WITH sub_data AS 
