@@ -26,7 +26,7 @@ ORDER BY sub_date
 ),
 Make_Case AS
 (
-SELECT  *, SUM(Entered) OVER (
+SELECT  *, SUM(Entered) OVER(
                             PARTITION BY hacker_id
                             ORDER BY sub_date
                             ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW 
