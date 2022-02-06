@@ -5,7 +5,7 @@ I created the excel files in the link above (using the problem statement) and us
 
 ## Results on BigQuery that match the sample output in the problem statement
 
-### Result on BigQuery
+### Results on BigQuery
 
 ![HackerRanks Hard SQL Q](https://user-images.githubusercontent.com/91411766/152669522-0451d1fd-62b1-4fb7-91e3-4007549330fc.JPG)
 
